@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/utube-clone-react/static/css/main.7064deb2.css",
+    "main.js": "/utube-clone-react/static/js/main.8c652953.js",
+    "index.html": "/utube-clone-react/index.html",
+    "main.7064deb2.css.map": "/utube-clone-react/static/css/main.7064deb2.css.map",
+    "main.8c652953.js.map": "/utube-clone-react/static/js/main.8c652953.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7064deb2.css",
+    "static/js/main.8c652953.js"
+  ]
+}
